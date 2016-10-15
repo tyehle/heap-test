@@ -1,0 +1,9 @@
+# Scala Files
+target/
+
+# IntelliJ Files
+*.iml
+*.ipr
+*.iws
+.idea
+out
